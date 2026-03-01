@@ -34,10 +34,8 @@ I’m moving away from web programming to focus on performance and systems. I’
 
 ### ⚡️ Programming Stats
 <p align="left" >
-
-  <a href="https://github.com/zebthewizard/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=zebthewizard&&show_icons=true&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebthewizard&langs_count=8&layout=compact&theme=radical" />
-  </a>
-
+    <img  src="https://github-stats-extended.vercel.app/api?username=ZebTheWizard&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark"/>
+</p>
+<p align="left" >
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ZebTheWizard&layout=pie&hide_title=true&langs_count=5&disable_animations=true&theme=github_dark" />
 </p>
