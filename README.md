@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ZebTheWizard/ZebTheWizard/blob/main/zeb_avatar_transparent.png?raw=true" width="100" alt="profile" />
+<img src="https://github.com/ZebTheWizard/ZebTheWizard/blob/main/wizardzeb.png?raw=true" width="100" alt="profile" />
 <h3 align="center"> ZebTheWizard</h3>
 <h5 align="center"> Experience web developer. Aspiring game developer. </h5>
 </p>
